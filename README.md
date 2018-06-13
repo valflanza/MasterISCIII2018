@@ -19,4 +19,5 @@ Abricate: https://github.com/tseemann/abricate
 MLST: https://github.com/tseemann/mlst
 
 Snippy: https://github.com/tseemann/snippy
+Fasttree: http://www.microbesonline.org/fasttree
 Dendroscope: http://dendroscope.org
